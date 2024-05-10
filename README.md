@@ -40,3 +40,7 @@ good sites that deserve a mention:
 2. [cults](https://cults3d.com/)
 3. [CGTrader](https://www.cgtrader.com/)
 4. [myminifactory](https://www.myminifactory.com/)
+
+# the end of this sheet and what to do now
+
+this is the end of the introduction for 3D printing, do you want to know more about filament 3D printing visit this README and if you want to know more about resin 3D printing visit this README about resin 3D printing
