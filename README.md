@@ -6,7 +6,7 @@ i will help you choose a slicer, cad software, tools and much more
 # 3Dprinting?
 why and what is 3Dprinting exactly?
 
-well lets start with the what is 3Dprinting:
+firstly what is 3Dprinting:
 
 3D printing (also known as additive manufacturing) is a process of making three dimensional objects from a digital file (ussually step, stl, obj and 3mf).
 The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down layers of material until the object is created. Each of these layers can be seen as a thinly sliced cross-section of the object.
