@@ -1,6 +1,7 @@
 # 3Dprinting-starting-guide
 this guide will help you start the best (and most aggravating😅) hobby
-i will help you choose a slicer, cad software, brands in the 3D printing space and much more
+i will help you choose a slicer, cad software, tools and much more
+
 # 3Dprinting?
 why and what is 3Dprinting exactly?
 
