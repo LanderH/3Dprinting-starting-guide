@@ -23,6 +23,6 @@ well 3Dprinting can be used in all kinds of markets (industry, at home, schools 
 5. there are much more types but these are the most known in the industry and at home
 
 this guide will cover filament and resin 3D printers that are mostly used at home
-1. filament 3D printer types: fdm
-2. resin 3D printer types: sla and dlp
+1. 3D printer types that use filament: fdm
+2. 3D printer types that use resin: sla and dlp
 there are more but i will cover these types
